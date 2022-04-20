@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Levionv
 - 👀 I’m interested in engineering, pharmceutics and computers
 - 🌱 I’m currently learning how to code on html
-- 💞️ I’m looking to collaborate on project that involve computers
+- 💞️ I’m looking to collaborate on project that involve gaming/podcast
 - 📫 How to reach me via mail
 
 <!---
