@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Levionv
 - 👀 I’m interested in engineering, pharmceutics and computers
-- 🌱 I’m currently learning English litertature 
+- 🌱 I’m currently learning how to code on html
 - 💞️ I’m looking to collaborate on project that involve computers
 - 📫 How to reach me via mail
 
